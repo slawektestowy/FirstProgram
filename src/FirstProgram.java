@@ -5,6 +5,8 @@ public class FirstProgram {
         System.out.println("Third line of code");
         System.out.println("New shortcut");
         System.out.println("New 2");
+        System.out.println("Hi hello");
+        System.out.println();
 
     }
 }
