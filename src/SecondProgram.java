@@ -6,7 +6,7 @@ public class SecondProgram {
         System.out.println("Hello 2nd");
         int zm = 12;
         int zm2 ;
-        System.out.println(zm*2); //tes comment
+        System.out.println(zm*2); //test comment
     }
 
 }
