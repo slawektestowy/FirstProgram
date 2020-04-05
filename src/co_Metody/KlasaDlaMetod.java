@@ -31,5 +31,27 @@ public class KlasaDlaMetod {
         return wynik;
         }
 
+    double dubel(double a){
+        double wynik = a + 1.5;
+        return wynik;
+        }
 
-}
+    boolean wortoscLogiczna(boolean wartosc){
+        return !wartosc;
+        }
+
+    int czyZwrociCos(boolean zwrotka, int a) {
+        if (zwrotka) {
+            return a;
+        } else {
+            return 0;
+        }
+    }
+
+
+    }
+
+
+
+
+

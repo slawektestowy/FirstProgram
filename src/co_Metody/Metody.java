@@ -12,6 +12,15 @@ public class Metody {
         int lala = nazwaMetodki.dodawnie(3, 6);
         System.out.println(lala);
 
+        double bombastik = nazwaMetodki.dubel(1.5);
+        System.out.println(bombastik);
+
+        System.out.println(nazwaMetodki.wortoscLogiczna(true));
+
+        System.out.println(nazwaMetodki.czyZwrociCos(true, 10));
+
+
+
 
     }
 }
