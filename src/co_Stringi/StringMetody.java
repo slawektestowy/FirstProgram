@@ -34,7 +34,11 @@ public class StringMetody {
 
         System.out.println(olaOla);
         String jedenWyraz = "Zaaaaaaaazraz ";
-        System.out.println(jedenWyraz.contains("a"));
+        System.out.println(jedenWyraz.contains("baob"));
+
+        System.out.println( jedenWyraz.replace('a', 'i'));
+        System.out.println(jedenWyraz);
+
 
 
 
